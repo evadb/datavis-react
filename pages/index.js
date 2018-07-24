@@ -1,6 +1,9 @@
+import stylesheet from 'styles/styles.css'
+
 const Index = () => (
     <div>
-        <p>Hello Next.js</p>
+        <style dangerouslySetInnerHTML={{ __html: stylesheet }} />
+        <p class="mt-6 text-xl">Hello Next.js</p>
     </div>
 )
 
