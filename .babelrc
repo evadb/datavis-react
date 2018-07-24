@@ -12,7 +12,7 @@
       [
         "wrap-in-js",
         {
-          "extensions": ["css$"]
+          "extensions": ["css$", "scss$"]
         }
       ]
     ],

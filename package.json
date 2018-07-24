@@ -14,13 +14,17 @@
     "autoprefixer": "^9.0.1",
     "babel-plugin-module-resolver": "^3.1.1",
     "babel-plugin-wrap-in-js": "^1.1.1",
+    "glob": "^7.1.2",
     "next": "^6.1.1",
+    "postcss-import": "^11.1.0",
     "postcss-loader": "^2.1.6",
     "raw-loader": "^0.5.1",
     "react": "^16.4.1",
-    "react-dom": "^16.4.1"
+    "react-dom": "^16.4.1",
+    "sass-loader": "^7.0.3"
   },
   "devDependencies": {
+    "precss": "^3.1.2",
     "tailwindcss": "^0.6.4"
   }
 }
